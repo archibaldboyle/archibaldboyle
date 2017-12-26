@@ -62,6 +62,7 @@ class App extends Component {
         <p>After World War II Boyle was in charge of RAF Recruiting with a special mission to the Public Schools. Interested in the Boy Scout movement, he spent much of his spare time in South Lambeth where he was Commissioner. Boyle retired on January 1st, 1949 and it is believed he lived his remaining days in South Lambeth, a district in London. Three months after retiring he passed away on March 6th, 1949 at the age of 61.</p>
         <p>Oddly, the only representation of Boyle in film came in The Last Englishman, a movie about Alfred Daniel Wintle, referred to as one of the "greatest British eccentrics". Wintle, a member of the RAF, attempted to steal a plane and threatend (and perhaps shot at) then Air Commodore Boyle. The movie falsely portrays Wintle's threats as heroic and Boyle as a small, smug and cowardly military bureaucrat. Footage can be seen <a href="http://www.youtube.com/watch?v=jowJELNfACA&t=6m9s">here</a>.</p>
       </div>
+    <div style={{height: '100px', width: "100%"}}></div>
       </div>
     );
   }
