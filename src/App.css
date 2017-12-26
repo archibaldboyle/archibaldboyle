@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+p {
+  font-family: Baskerville;
+  font-size: 14px;
+  text-align: justify;
+}
+
+h1 {
+  font-family: RailwayRegular;
+  font-size: 24px;
+}
+
+h2 {
+  font-family: RailwayRegular;
+  font-size: 20px;
+}
+
+h3 {
+  font-family: RailwayRegular;
+  font-size: 16px;
+}
+
+@font-face{
+    font-family: RailwayLight;
+    src: url("Raleway-Light.ttf") format("truetype");
+}
+
+@font-face{
+    font-family: RailwayRegular;
+    src: url("Raleway-Regular.ttf") format("truetype");
+}
+
+@font-face{
+    font-family: RailwayMedium;
+    src: url("Raleway-Medium.ttf") format("truetype");
+}
+
+@font-face{
+    font-family: RailwayThinItalic;
+    src: url("Raleway-ThinItalic.ttf") format("truetype");
+}
